@@ -6,6 +6,10 @@ header{
     color: black;
     font-family: Arial, Helvetica, sans-serif;
 }
+header:hover{
+    background-color: black;
+    color: yellowgreen;
+}
 .clr{
     clear: both;
 }
